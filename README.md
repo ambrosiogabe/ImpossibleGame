@@ -3,7 +3,7 @@ This game was programmed by me in March of 2017. I did not know about Github bac
 decided to upload it just in case I decide to make changes to it in the future or something. I will give a brief overview
 of how I created it and how to install and play it if you would like.
 
-![Gameplay](http://github.com/ambrosiogabe/ImpossibleGame/gameplay2.png)
+![Gameplay](/gameplay2.png)
 
 # Creation 
 I coded this game froms scratch in Eclipse. I used Java Swing and Awt to do the GUI and everything. I just used Java's
